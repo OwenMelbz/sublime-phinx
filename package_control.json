@@ -1,0 +1,10 @@
+{
+	"schema_version": "0.1.0",
+	"packages": [
+		{
+			"name": "sublime-phinx",
+			"description": "A basic implimentation of phinx for sublime",
+			"author": "OwenMelbz"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+[{
+	"id" : "phinxmigrate",
+	"caption" : "Phinx: Migrate",
+	"command" : "phinx_migrate"
+},{
+	"id" : "phinxrollback",
+	"caption" : "Phinx: Rollback",
+	"command" : "phinx_rollback"
+},{
+	"id" : "phinxhelp",
+	"caption" : "Phinx: Help",
+	"command" : "phinx_help"
+},{
+	"id" : "phinxstatus",
+	"caption" : "Phinx: Status",
+	"command" : "phinx_status"
+},
+{
+    "id" : "phinxcreate",
+    "caption" : "Phinx: Create",
+    "command" : "phinx_create"
+}]
